@@ -1,0 +1,2 @@
+# ShingekiNoTakoyaki
+Game project
